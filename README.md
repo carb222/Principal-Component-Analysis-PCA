@@ -22,7 +22,7 @@ Principal Component Analysis is an unsupervised technique used to reduce the dim
 
 2. Ensure you have R and RStudio installed on your system.
 
-3. Open `PCA_in_R.Rmd` in RStudio.
+3. Open `PCA.Rmd` in RStudio.
 
 4. Execute the code chunks sequentially to perform PCA on the wine dataset.
 
