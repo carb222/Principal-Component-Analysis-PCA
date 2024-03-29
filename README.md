@@ -9,7 +9,7 @@ Principal Component Analysis is an unsupervised technique used to reduce the dim
 ## Contents
 
 - **Code Files**: 
-  - `PCA.Rmd`: R Markdown file containing code and explanations for PCA.
+  - `PCA.R`: R file containing code and explanations for PCA.
   - `wine.data.csv`: Dataset used for demonstration.
   - `PCA.pdf`: pdf file containing code and explanations for PCA.
     
@@ -22,11 +22,11 @@ Principal Component Analysis is an unsupervised technique used to reduce the dim
 
 2. Ensure you have R and RStudio installed on your system.
 
-3. Open `PCA.Rmd` in RStudio.
+3. Open `PCA.R` in RStudio.
 
 4. Execute the code chunks sequentially to perform PCA on the wine dataset.
 
-5. Follow the explanations provided within the R Markdown file to understand each step of the PCA process.
+5. Follow the explanations provided within the R file to understand each step of the PCA process.
 
 6. Modify the code and experiment with different datasets as needed for your projects.
 
