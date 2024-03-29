@@ -9,9 +9,10 @@ Principal Component Analysis is an unsupervised technique used to reduce the dim
 ## Contents
 
 - **Code Files**: 
-  - `PCA_in_R.Rmd`: R Markdown file containing code and explanations for PCA.
+  - `PCA.Rmd`: R Markdown file containing code and explanations for PCA.
   - `wine.data.csv`: Dataset used for demonstration.
-
+  - `PCA.pdf`: pdf file containing code and explanations for PCA.
+    
 - **README**: 
   - `README.md`: This README file providing an overview of the repository and instructions for use.
 
